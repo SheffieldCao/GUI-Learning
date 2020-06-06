@@ -1,1 +1,1 @@
-# GUI-Learning
+# GUI design learning

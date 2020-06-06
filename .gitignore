@@ -120,6 +120,12 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# Ignore changes to these folders
+/img
+/PySimpleGUI-master
+/__pycache__
+/.dist
+
 # mypy
 .mypy_cache/
 .dmypy.json
