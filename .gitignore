@@ -125,6 +125,7 @@ venv.bak/
 /PySimpleGUI-master
 /__pycache__
 /.dist
+/history
 
 # mypy
 .mypy_cache/
